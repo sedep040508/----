@@ -150,6 +150,9 @@ img{
 .card_tit{
   gap: 30px;
 }
+.filter_mark-wrap{
+  display: none;
+}
 .card_mark{
 width: 287px;
 height: 52px;
